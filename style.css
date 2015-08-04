@@ -164,3 +164,7 @@ td.progress-bar-left {
 #main-panel-content > div:nth-child(2) {
 	background-color: transparent !important;
 }
+
+.CodeMirror {
+	max-width: 70em;
+}
